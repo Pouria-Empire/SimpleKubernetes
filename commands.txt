@@ -1,0 +1,5 @@
+wlf job add {"cmd":"python"} -executable {./test/test.py}
+wlf job add {"cmd": "sleep 5s"} -simple
+
+read -p "Press enter to continue"
+sleep 50s

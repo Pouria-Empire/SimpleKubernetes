@@ -1,0 +1,5 @@
+success {"result": "hello world\n"}
+success {"result": "Hello world finally\n"}
+success {"result": ""}
+success {"result": ""}
+
